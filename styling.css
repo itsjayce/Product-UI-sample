@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-container, .empty-div {
+    display: flex;
+}
+.empty-div {
+    flex: 0 0 30%;
+}
+
+.navbar-custom {
+    background-color: #ffd3c5;
+}
+
+.card-img-top {
+    padding:20px;
+}
+
+.card {
+    border-radius: 35px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
+
+.card-body {
+    margin-top: -15px;
+}
+
+#add-to-cart {
+    border-radius: 30px;
+}
+
+.bottom-card {
+    align-items: center;
+}
+.qty-box {
+    border-radius: 10px;
+    padding: 3px;
+    border: 1px solid #000;
+}
+
+
+
+
+
+
+
